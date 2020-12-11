@@ -2,6 +2,7 @@
 import React, { useState } from 'react'
 import { AddTodoForm } from './Components/AddTodoForm';
 import { TodoList } from './Components/TodoList';
+import "./app.css"
 
 
 

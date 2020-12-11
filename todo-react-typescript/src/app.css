@@ -1,0 +1,13 @@
+body {
+  background: linear-gradient(
+    90deg,
+    rgba(100, 115, 255, 1) 100%,
+    rgba(48, 16, 255, 1) 0%
+  );
+}
+
+h1 {
+  margin: 32px 0;
+  color: #fff;
+  font-size: 24px;
+}

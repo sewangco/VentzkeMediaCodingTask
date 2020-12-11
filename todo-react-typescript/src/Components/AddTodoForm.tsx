@@ -1,4 +1,5 @@
 import React, {ChangeEvent, FormEvent, useState} from 'react'
+import "../app.css"
 
 
 interface AddTodoFormProps {
